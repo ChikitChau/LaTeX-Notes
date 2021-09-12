@@ -691,6 +691,7 @@ Hello \LaTex.
 	这是一个参考文献的引用:\cite{陈绍杰2010boosting}
 	
 	这是另一个引用:\cite{huang2002assessment}
+	上角标方括号引用:\textsuperscript{\cite{陈绍杰2010boosting}}
 	% 使用\bibliography{bib file}指定参考文件数据库
 	\nocite{*}
 	\bibliography{test}
